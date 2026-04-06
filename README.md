@@ -1,7 +1,9 @@
 # OpenGL Mechanical Clock
 
 This project is a 3D mechanical clock simulation created using OpenGL and GLSL.  
+
 It allows real-time interaction, camera movement, and time manipulation.
+
 The project uses custom GLSL shaders located in the `shaders/` folder.  
 
 ---
